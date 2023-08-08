@@ -11,3 +11,9 @@
     flex-wrap: wrap;
     justify-content: center;
 }
+
+.coundry-detail{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
